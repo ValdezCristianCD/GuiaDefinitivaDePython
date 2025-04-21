@@ -47,16 +47,6 @@ else:
 
 ---
 
-# Recursos útiles
-
-- [Documentación oficial de Python](https://docs.python.org/3/tutorial/controlflow.html)
-- [Python para principiantes](https://realpython.com/python-conditional-statements/)
-- [W3Schools Python If](https://www.w3schools.com/python/python_conditions.asp)
-- [Tutorial de condicionales en Python](https://www.programiz.com/python-programming/if-elif-else)
-- [Explicación interactiva](https://www.learnpython.org/)
-
----
-
 # Resumen visual
 
 - `if` evalúa una condición.
